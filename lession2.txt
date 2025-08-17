@@ -1,0 +1,9 @@
+1. Mục thứ nhất
+git init: Khởi tạo 1 thư mục được quản lý  bởi git
+git add <file_name>: add file_name vào vùng stag
+git add . : add tất cả các file vào vùng sta
+git commit -m “message”: thêm comment cho đoạn code chuẩn bị được đẩy lên git
+
+2. Mục thứ hai
+- file2, file3: Working directory
+- file1: staging area
